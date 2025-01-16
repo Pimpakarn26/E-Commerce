@@ -1,0 +1,203 @@
+[
+    {
+       "_id":"1",
+       "name":"Coding Keyboard",
+       "descrition":"Mechanical Keyboard optimized for coding with customizable ",
+       "price": 3500,
+       "image":"https://picsum.photos/200",
+       "catagory": "gadget"
+    },
+    {
+        "_id": "2",
+        "name": "Sunglasses",
+        "description": "This is a high-quality accessories product.",
+        "price": 2770,
+        "image": "https://picsum.photos/id/2/200",
+        "category": "accessories"
+    },
+    {
+        "_id": "3",
+        "name": "Sticker Pack",
+        "description": "This is a high-quality swag product.",
+        "price": 2656,
+        "image": "https://picsum.photos/id/3/200",
+        "category": "swag"
+    },
+    {
+        "_id": "4",
+        "name": "Bracelet",
+        "description": "This is a high-quality accessories product.",
+        "price": 376,
+        "image": "https://picsum.photos/id/4/200",
+        "category": "accessories"
+    },
+    {
+        "_id": "5",
+        "name": "Keychain",
+        "description": "This is a high-quality swag product.",
+        "price": 1478,
+        "image": "https://picsum.photos/id/5/200",
+        "category": "swag"
+    },
+    {
+        "_id": "6",
+        "name": "Tablet",
+        "description": "This is a high-quality gadgets product.",
+        "price": 3944,
+        "image": "https://picsum.photos/id/6/200",
+        "category": "gadgets"
+    },
+    {
+        "_id": "7",
+        "name": "Smartwatch",
+        "description": "This is a high-quality gadgets product.",
+        "price": 1589,
+        "image": "https://picsum.photos/id/7/200",
+        "category": "gadgets"
+    },
+    {
+        "_id": "8",
+        "name": "Bracelet",
+        "description": "This is a high-quality accessories product.",
+        "price": 3516,
+        "image": "https://picsum.photos/id/8/200",
+        "category": "accessories"
+    },
+    {
+        "_id": "9",
+        "name": "Laptop",
+        "description": "This is a high-quality gadgets product.",
+        "price": 2314,
+        "image": "https://picsum.photos/id/9/200",
+        "category": "gadgets"
+    },
+    {
+        "_id": "10",
+        "name": "Sticker Pack",
+        "description": "This is a high-quality swag product.",
+        "price": 3973,
+        "image": "https://picsum.photos/id/10/200",
+        "category": "swag"
+    },
+    {
+        "_id": "11",
+        "name": "Sneakers",
+        "description": "This is a high-quality clothing product.",
+        "price": 4029,
+        "image": "https://picsum.photos/id/11/200",
+        "category": "clothing"
+    },
+    {
+        "_id": "12",
+        "name": "Jacket",
+        "description": "This is a high-quality clothing product.",
+        "price": 4005,
+        "image": "https://picsum.photos/id/12/200",
+        "category": "clothing"
+    },
+    {
+        "_id": "13",
+        "name": "Hat",
+        "description": "This is a high-quality accessories product.",
+        "price": 1534,
+        "image": "https://picsum.photos/id/13/200",
+        "category": "accessories"
+    },
+    {
+        "_id": "14",
+        "name": "Necklace",
+        "description": "This is a high-quality accessories product.",
+        "price": 1407,
+        "image": "https://picsum.photos/id/14/200",
+        "category": "accessories"
+    },
+    {
+        "_id": "15",
+        "name": "Keychain",
+        "description": "This is a high-quality swag product.",
+        "price": 781,
+        "image": "https://picsum.photos/id/15/200",
+        "category": "swag"
+    },
+    {
+        "_id": "16",
+        "name": "Hat",
+        "description": "This is a high-quality accessories product.",
+        "price": 628,
+        "image": "https://picsum.photos/id/16/200",
+        "category": "accessories"
+    },
+    {
+        "_id": "17",
+        "name": "Dress",
+        "description": "This is a high-quality clothing product.",
+        "price": 4578,
+        "image": "https://picsum.photos/id/17/200",
+        "category": "clothing"
+    },
+    {
+        "_id": "18",
+        "name": "Jeans",
+        "description": "This is a high-quality clothing product.",
+        "price": 523,
+        "image": "https://picsum.photos/id/18/200",
+        "category": "clothing"
+    },
+    {
+        "_id": "19",
+        "name": "Hat",
+        "description": "This is a high-quality accessories product.",
+        "price": 1797,
+        "image": "https://picsum.photos/id/19/200",
+        "category": "accessories"
+    },
+    {
+        "_id": "20",
+        "name": "Laptop",
+        "description": "This is a high-quality gadgets product.",
+        "price": 2671,
+        "image": "https://picsum.photos/id/20/200",
+        "category": "gadgets"
+    },
+    {
+        "_id": "21",
+        "name": "Sneakers",
+        "description": "This is a high-quality clothing product.",
+        "price": 4961,
+        "image": "https://picsum.photos/id/21/200",
+        "category": "clothing"
+    },
+    {
+        "_id": "22",
+        "name": "Tablet",
+        "description": "This is a high-quality gadgets product.",
+        "price": 134,
+        "image": "https://picsum.photos/id/22/200",
+        "category": "gadgets"
+    },
+    {
+        "_id": "23",
+        "name": "Smartphone",
+        "description": "This is a high-quality gadgets product.",
+        "price": 1174,
+        "image": "https://picsum.photos/id/23/200",
+        "category": "gadgets"
+    },
+    {
+        "_id": "24",
+        "name": "Sunglasses",
+        "description": "This is a high-quality accessories product.",
+        "price": 1248,
+        "image": "https://picsum.photos/id/24/200",
+        "category": "accessories"
+    },
+    {
+        "_id": "25",
+        "name": "Jacket",
+        "description": "This is a high-quality clothing product.",
+        "price": 1907,
+        "image": "https://picsum.photos/id/25/200",
+        "category": "clothing"
+    }
+
+]
