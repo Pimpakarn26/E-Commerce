@@ -1,203 +1,202 @@
 [
-    {
-       "_id":"1",
-       "name":"Coding Keyboard",
-       "descrition":"Mechanical Keyboard optimized for coding with customizable ",
-       "price": 3500,
-       "image":"https://picsum.photos/200",
-       "catagory": "gadget"
-    },
-    {
-        "_id": "2",
-        "name": "Sunglasses",
-        "description": "This is a high-quality accessories product.",
-        "price": 2770,
-        "image": "https://picsum.photos/id/2/200",
-        "category": "accessories"
-    },
-    {
-        "_id": "3",
-        "name": "Sticker Pack",
-        "description": "This is a high-quality swag product.",
-        "price": 2656,
-        "image": "https://picsum.photos/id/3/200",
-        "category": "swag"
-    },
-    {
-        "_id": "4",
-        "name": "Bracelet",
-        "description": "This is a high-quality accessories product.",
-        "price": 376,
-        "image": "https://picsum.photos/id/4/200",
-        "category": "accessories"
-    },
-    {
-        "_id": "5",
-        "name": "Keychain",
-        "description": "This is a high-quality swag product.",
-        "price": 1478,
-        "image": "https://picsum.photos/id/5/200",
-        "category": "swag"
-    },
-    {
-        "_id": "6",
-        "name": "Tablet",
-        "description": "This is a high-quality gadgets product.",
-        "price": 3944,
-        "image": "https://picsum.photos/id/6/200",
-        "category": "gadgets"
-    },
-    {
-        "_id": "7",
-        "name": "Smartwatch",
-        "description": "This is a high-quality gadgets product.",
-        "price": 1589,
-        "image": "https://picsum.photos/id/7/200",
-        "category": "gadgets"
-    },
-    {
-        "_id": "8",
-        "name": "Bracelet",
-        "description": "This is a high-quality accessories product.",
-        "price": 3516,
-        "image": "https://picsum.photos/id/8/200",
-        "category": "accessories"
-    },
-    {
-        "_id": "9",
-        "name": "Laptop",
-        "description": "This is a high-quality gadgets product.",
-        "price": 2314,
-        "image": "https://picsum.photos/id/9/200",
-        "category": "gadgets"
-    },
-    {
-        "_id": "10",
-        "name": "Sticker Pack",
-        "description": "This is a high-quality swag product.",
-        "price": 3973,
-        "image": "https://picsum.photos/id/10/200",
-        "category": "swag"
-    },
-    {
-        "_id": "11",
-        "name": "Sneakers",
-        "description": "This is a high-quality clothing product.",
-        "price": 4029,
-        "image": "https://picsum.photos/id/11/200",
-        "category": "clothing"
-    },
-    {
-        "_id": "12",
-        "name": "Jacket",
-        "description": "This is a high-quality clothing product.",
-        "price": 4005,
-        "image": "https://picsum.photos/id/12/200",
-        "category": "clothing"
-    },
-    {
-        "_id": "13",
-        "name": "Hat",
-        "description": "This is a high-quality accessories product.",
-        "price": 1534,
-        "image": "https://picsum.photos/id/13/200",
-        "category": "accessories"
-    },
-    {
-        "_id": "14",
-        "name": "Necklace",
-        "description": "This is a high-quality accessories product.",
-        "price": 1407,
-        "image": "https://picsum.photos/id/14/200",
-        "category": "accessories"
-    },
-    {
-        "_id": "15",
-        "name": "Keychain",
-        "description": "This is a high-quality swag product.",
-        "price": 781,
-        "image": "https://picsum.photos/id/15/200",
-        "category": "swag"
-    },
-    {
-        "_id": "16",
-        "name": "Hat",
-        "description": "This is a high-quality accessories product.",
-        "price": 628,
-        "image": "https://picsum.photos/id/16/200",
-        "category": "accessories"
-    },
-    {
-        "_id": "17",
-        "name": "Dress",
-        "description": "This is a high-quality clothing product.",
-        "price": 4578,
-        "image": "https://picsum.photos/id/17/200",
-        "category": "clothing"
-    },
-    {
-        "_id": "18",
-        "name": "Jeans",
-        "description": "This is a high-quality clothing product.",
-        "price": 523,
-        "image": "https://picsum.photos/id/18/200",
-        "category": "clothing"
-    },
-    {
-        "_id": "19",
-        "name": "Hat",
-        "description": "This is a high-quality accessories product.",
-        "price": 1797,
-        "image": "https://picsum.photos/id/19/200",
-        "category": "accessories"
-    },
-    {
-        "_id": "20",
-        "name": "Laptop",
-        "description": "This is a high-quality gadgets product.",
-        "price": 2671,
-        "image": "https://picsum.photos/id/20/200",
-        "category": "gadgets"
-    },
-    {
-        "_id": "21",
-        "name": "Sneakers",
-        "description": "This is a high-quality clothing product.",
-        "price": 4961,
-        "image": "https://picsum.photos/id/21/200",
-        "category": "clothing"
-    },
-    {
-        "_id": "22",
-        "name": "Tablet",
-        "description": "This is a high-quality gadgets product.",
-        "price": 134,
-        "image": "https://picsum.photos/id/22/200",
-        "category": "gadgets"
-    },
-    {
-        "_id": "23",
-        "name": "Smartphone",
-        "description": "This is a high-quality gadgets product.",
-        "price": 1174,
-        "image": "https://picsum.photos/id/23/200",
-        "category": "gadgets"
-    },
-    {
-        "_id": "24",
-        "name": "Sunglasses",
-        "description": "This is a high-quality accessories product.",
-        "price": 1248,
-        "image": "https://picsum.photos/id/24/200",
-        "category": "accessories"
-    },
-    {
-        "_id": "25",
-        "name": "Jacket",
-        "description": "This is a high-quality clothing product.",
-        "price": 1907,
-        "image": "https://picsum.photos/id/25/200",
-        "category": "clothing"
-    }
-
+  {
+    "_id": "1",
+    "name": "Coding Keyboard",
+    "description": "Mechanical Keyboard optimized for Coding with customizable keycaps",
+    "price": 3500,
+    "image": "https://picsum.photos/200",
+    "category": "gadget"
+  },
+  {
+    "_id": "2",
+    "name": "Smart Watch",
+    "description": "Stylish smartwatch with fitness tracking and notification features",
+    "price": 4500,
+    "image": "https://picsum.photos/200",
+    "category": "gadget"
+  },
+  {
+    "_id": "3",
+    "name": "Laptop Sleeve",
+    "description": "Protective sleeve for 15-inch laptops with a minimalist design",
+    "price": 800,
+    "image": "https://picsum.photos/200",
+    "category": "accessories"
+  },
+  {
+    "_id": "4",
+    "name": "Leather Wallet",
+    "description": "Premium leather wallet with multiple card slots and a coin pocket",
+    "price": 1500,
+    "image": "https://picsum.photos/200",
+    "category": "accessories"
+  },
+  {
+    "_id": "5",
+    "name": "Winter Jacket",
+    "description": "Warm and stylish jacket for cold weather with insulated lining",
+    "price": 3500,
+    "image": "https://picsum.photos/200",
+    "category": "clothing"
+  },
+  {
+    "_id": "6",
+    "name": "Sneakers",
+    "description": "Comfortable and breathable sneakers perfect for casual wear",
+    "price": 2500,
+    "image": "https://picsum.photos/200",
+    "category": "clothing"
+  },
+  {
+    "_id": "7",
+    "name": "Bluetooth Headphones",
+    "description": "Wireless headphones with noise cancellation and superior sound quality",
+    "price": 3200,
+    "image": "https://picsum.photos/200",
+    "category": "gadget"
+  },
+  {
+    "_id": "8",
+    "name": "Canvas Backpack",
+    "description": "Durable canvas backpack with multiple compartments and adjustable straps",
+    "price": 1200,
+    "image": "https://picsum.photos/200",
+    "category": "accessories"
+  },
+  {
+    "_id": "9",
+    "name": "Graphic T-Shirt",
+    "description": "Stylish t-shirt with a cool graphic design, perfect for casual outings",
+    "price": 700,
+    "image": "https://picsum.photos/200",
+    "category": "clothing"
+  },
+  {
+    "_id": "10",
+    "name": "Portable Power Bank",
+    "description": "Compact power bank with fast charging and high capacity for smartphones",
+    "price": 900,
+    "image": "https://picsum.photos/200",
+    "category": "gadget"
+  },
+  {
+    "_id": "11",
+    "name": "Smartphone Case",
+    "description": "Protective phone case with a sleek design for iPhone and Android devices",
+    "price": 350,
+    "image": "https://picsum.photos/200",
+    "category": "accessories"
+  },
+  {
+    "_id": "12",
+    "name": "Sports Watch",
+    "description": "Durable sports watch with stopwatch, heart rate monitor, and GPS",
+    "price": 2500,
+    "image": "https://picsum.photos/200",
+    "category": "gadget"
+  },
+  {
+    "_id": "13",
+    "name": "Hoodie",
+    "description": "Comfortable hoodie with a soft inner lining, ideal for casual wear",
+    "price": 1200,
+    "image": "https://picsum.photos/200",
+    "category": "clothing"
+  },
+  {
+    "_id": "14",
+    "name": "Acrylic Desk Organizer",
+    "description": "Sleek acrylic organizer to keep your desk tidy and your items accessible",
+    "price": 600,
+    "image": "https://picsum.photos/200",
+    "category": "accessories"
+  },
+  {
+    "_id": "15",
+    "name": "LED Desk Lamp",
+    "description": "Energy-efficient desk lamp with adjustable brightness and color temperature",
+    "price": 1200,
+    "image": "https://picsum.photos/200",
+    "category": "gadget"
+  },
+  {
+    "_id": "16",
+    "name": "Baseball Cap",
+    "description": "Classic baseball cap with adjustable strap and embroidered logo",
+    "price": 500,
+    "image": "https://picsum.photos/200",
+    "category": "accessories"
+  },
+  {
+    "_id": "17",
+    "name": "Button-Down Shirt",
+    "description": "Cotton button-down shirt, perfect for both casual and business occasions",
+    "price": 1500,
+    "image": "https://picsum.photos/200",
+    "category": "clothing"
+  },
+  {
+    "_id": "18",
+    "name": "Multi-tool Pocket Knife",
+    "description": "Compact and durable pocket knife with multiple built-in tools for outdoor activities",
+    "price": 700,
+    "image": "https://picsum.photos/200",
+    "category": "swag"
+  },
+  {
+    "_id": "19",
+    "name": "Vinyl Stickers",
+    "description": "Pack of cool vinyl stickers with various designs to personalize your items",
+    "price": 300,
+    "image": "https://picsum.photos/200",
+    "category": "swag"
+  },
+  {
+    "_id": "20",
+    "name": "Smartphone Stand",
+    "description": "Adjustable stand to hold your smartphone while watching videos or video calling",
+    "price": 400,
+    "image": "https://picsum.photos/200",
+    "category": "gadget"
+  },
+  {
+    "_id": "21",
+    "name": "Tote Bag",
+    "description": "Spacious tote bag made from durable fabric, perfect for shopping or carrying books",
+    "price": 800,
+    "image": "https://picsum.photos/200",
+    "category": "accessories"
+  },
+  {
+    "_id": "22",
+    "name": "Fleece Jacket",
+    "description": "Lightweight fleece jacket, perfect for layering in colder weather",
+    "price": 2000,
+    "image": "https://picsum.photos/200",
+    "category": "clothing"
+  },
+  {
+    "_id": "23",
+    "name": "Customized Mug",
+    "description": "Personalized ceramic mug with custom print for your morning coffee",
+    "price": 350,
+    "image": "https://picsum.photos/200",
+    "category": "swag"
+  },
+  {
+    "_id": "24",
+    "name": "Fitness Tracker",
+    "description": "Activity tracker with step counting, heart rate monitoring, and sleep tracking",
+    "price": 2500,
+    "image": "https://picsum.photos/200",
+    "category": "gadget"
+  },
+  {
+    "_id": "25",
+    "name": "Stylish Scarf",
+    "description": "Soft and stylish scarf made from high-quality material, perfect for chilly weather",
+    "price": 1200,
+    "image": "https://picsum.photos/200",
+    "category": "clothing"
+  }
 ]
