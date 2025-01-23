@@ -12,16 +12,16 @@ const NavBar = () => {
               <a href="/shop">All</a>
             </li>
             <li>
-              <a href="/shop?categaory=clothing">Clothing</a>
+              <a href="/shop?category=clothing">Clothing</a>
             </li>
             <li>
-              <a href="/shop?categaory=accessories">Accessories</a>
+              <a href="/shop?category=accessories">Accessories</a>
             </li>
             <li>
-              <a href="/shop?categaory=gadgets">Gadgets</a>
+              <a href="/shop?category=gadget">Gadgets</a>
             </li>
             <li>
-              <a href="/shop?categaory=swag">Swag</a>
+              <a href="/shop?category=swag">Swag</a>
             </li>
           </ul>
         </details>
