@@ -1,18 +1,17 @@
 import Banner from "./Banner";
-import Category from "./Category";
+import Categories from "./Categories";
 import Product from "./Product";
 import Service from "./Service";
-import Testimonials from "./Testimonials";
+import Testimonials from "./testimonials";
 
 const Index = () => {
   return (
     <div>
       <Banner />
-      <Category />
+      <Categories />
       <Product />
-
-      <Testimonials />
       <Service />
+      <Testimonials />
     </div>
   );
 };

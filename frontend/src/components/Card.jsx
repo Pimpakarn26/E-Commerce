@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const Card = ({ item }) => {
-  const { _id, name, image, description, category, price } = item;
+  const { _id, name, image, price, description, category } = item;
   const [isHeartFilled, setIsHeartFilled] = useState(false);
   const handleHeartClick = () => {
     setIsHeartFilled(!isHeartFilled);
@@ -9,15 +9,14 @@ const Card = ({ item }) => {
   return (
     <div className="card shadow-xl relative mr-5 md:my-5 h-120">
       <div
-        className={`rating gap-1 absolute right-2 top-2 p-4 heartStar
-        }
-      `}
+        className={`rating gap-1 absolute right-2 top-2 p-4 bg-red
+            heartStar`}
         onClick={handleHeartClick}
       >
         <input
           type="radio"
           name="heart"
-          className={`mask mask-heart ${isHeartFilled ? "bg-green-400" : ""} `}
+          className={`mask mask-heart ${isHeartFilled ? "bg-green-400" : ""}`}
         />
       </div>
       <figure>
@@ -30,11 +29,10 @@ const Card = ({ item }) => {
       <div className="card-body">
         <h2 className="card-title">{name}</h2>
         <p>{description}</p>
-        <div className="card-actions justify-between items-center mt-2">
-          <h5 className="font-semibold">
+        <div className="card-action justify-between items-center mt-2">
+          <h5 className="font-bold">
             {price} <span className="text-sm text-red">฿</span>
           </h5>
-          <button className="btn bg-red text-white">Add to cart</button>
         </div>
       </div>
     </div>
