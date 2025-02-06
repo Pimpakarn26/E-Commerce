@@ -18,7 +18,7 @@ const updateCartItem = async (id, data) => {
 };
 
 const removeAllItems = async () => {
-    return await api.delete(API_URL);  
+    return await api.delete(`${API_URL}/${email}`);  
 };
 
 const removeItemById = async (id) => {  
