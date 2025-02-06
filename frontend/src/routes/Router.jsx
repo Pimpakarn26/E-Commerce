@@ -3,6 +3,8 @@ import MainLayout from "../layouts/MainLayout";
 import Home from "../pages/Home/Home";
 import Shop from "../pages/Shop/Index";
 import Cart from "../pages/Cart/Index";
+import ViewProfile from "../pages/ViewProfile";
+import Setting from "../pages/Setting";
 
 const router = createBrowserRouter([
   {
@@ -21,6 +23,14 @@ const router = createBrowserRouter([
         path: "/cart",
         element: <Cart />,
       },
+      {
+        path:"/profile",
+        element:<ViewProfile/>
+      },
+      {
+        path:"/setting",
+        element:<Setting/>
+      }
     ],
   },
 ]);

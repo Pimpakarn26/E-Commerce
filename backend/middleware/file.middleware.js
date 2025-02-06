@@ -15,7 +15,7 @@ const firebaseStorage = getStorage(app);
 
 //set storage
 const storage = multer.diskStorage({
-  destination: "./upload/",
+  destination: "./uploads/",
   filename: (req, file, cb) => {
     cb(
       null,
