@@ -18,7 +18,15 @@ router.delete("/:id",
     authJwt.isAdmin, 
     userController.deleteUser
 );
-router.patch("/admin/:email", authJwt.verifyToken, authJwt.isAdmin, userController.makeAdmin);
-router.patch("/user/:email", authJwt.verifyToken, authJwt.isAdmin, userController.makeUser);
+router.patch("/admin/:email", 
+    authJwt.verifyToken, 
+    authJwt.isAdmin, 
+    userController.makeAdmin
+);
+router.patch("/user/:email", 
+    authJwt.verifyToken, 
+    authJwt.isAdmin, 
+    userController.makeUser
+);
 
 module.exports = router;

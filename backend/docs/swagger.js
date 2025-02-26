@@ -6,9 +6,9 @@ const doc = {
     title: "SE Shop REST API", // by default: 'REST API'
     description: "RESTful API for SE Shop", // by default: '',
     contact: {
-      name: "Angkan Baitoey",
-      url: "https://github.com/justbest2003",
-      email: "654259028@webmail.npru.ac.th",
+      name: "Pimpakarn Kucharoensrichan",
+      url: "",
+      email: "654259009@webmail.npru.ac.th",
     },
   },
   servers: [
