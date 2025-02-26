@@ -1,5 +1,3 @@
-import React from "react";
-
 const Testimonials = () => {
   return (
     <div className="section-container">
@@ -21,17 +19,17 @@ const Testimonials = () => {
               <div className="avatar-group -space-x-6 rtl:space-x-reverse">
                 <div className="avatar">
                   <div className="w-12">
-                    <img src="/images/home/testimonials/testimonial1.png" />
+                    <img src="images/home/testimonials/testimonial1.png" />
                   </div>
                 </div>
                 <div className="avatar">
                   <div className="w-12">
-                    <img src="/images/home/testimonials/testimonial2.png" />
+                    <img src="images/home/testimonials/testimonial2.png" />
                   </div>
                 </div>
                 <div className="avatar">
                   <div className="w-12">
-                    <img src="/images/home/testimonials/testimonial3.png" />
+                    <img src="images/home/testimonials/testimonial3.png" />
                   </div>
                 </div>
                 <div className="avatar placeholder">
@@ -41,18 +39,18 @@ const Testimonials = () => {
                 </div>
               </div>
               <div className="space-y-1">
-                <h5 className="text-lg font-semibold">Customer Feedback</h5>
+                <h5 className="text-md font-semibold">Customer Feedback</h5>
                 <div className="flex items-center gap-2">
                   <div className="rating">
                     <input
                       type="radio"
-                      className="mask mask-star-2 bg-orange-400"
+                      className="mask mask-star-2 bg-yellow-400"
                       disabled
                       defaultChecked
                     />
                   </div>
                   <span className="font-semibold">4.9</span>
-                  <span className="text-[#907E7E]">(18.6k Reviews)</span>
+                  <span className="text-[#907E7E]">(28.8k Reviews)</span>
                 </div>
               </div>
             </div>

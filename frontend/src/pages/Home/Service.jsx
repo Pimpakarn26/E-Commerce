@@ -1,10 +1,10 @@
-import React from "react";
 import { useState } from "react";
+
 const serviceList = [
   {
     id: 1,
     title: "High-Quality Products",
-    description: "We offer a curated selection of high- quality products.",
+    description: "We offer a curated selection of high-quality products",
     image: "/images/home/services/assurance.png",
   },
   {
@@ -28,43 +28,42 @@ const serviceList = [
 ];
 
 const Service = () => {
-  const [service, setService] = useState(serviceList);
+  const [myServices, setMyServices] = useState(serviceList);
+
   return (
-    <div className="section-container py-16  ">
-      <div className="flex flex-col md:flex-row justify-between items-center gap-12">
+    <div className="section-container my-16">
+      <div className="flex flex-col md:flex-row items-center justify-between gap-12">
         <div className="md:w-1/2">
-          <div className="text-left md:4/5">
-            <p className="subtitle">OUR STORY & SERVICES</p>
-            <h2 className="title"> Our Journey And Services</h2>
-            <blockquote className="my-5 text-secondary leading-[30px]">
-              We provide a curated selection of high-quality tech-inspired
-              products, backed by fast shipping and exceptional customer
-              service. Our mission is to empower and inspire tech enthusiasts
-              through our carefully chosen merchandise and community engagement
-              initiatives.
-            </blockquote>
-            <button className="btn bg-red text-white px-6 py-3 rounded-full">
+          <div className="text-left md:w-4/5">
+            <p className="subtitle">Our Story & Services</p>
+            <h2 className="title">Our Journey And Services</h2>
+            <p className="my-5 text-secondary leading-[30px]">
+              "As a software developer, I'm always on the lookout for unique
+              accessories to express my love for coding. The Keyboard Key
+              Keychain is not only stylish but also durable. Will definitely be
+              purchasing more items!"
+            </p>
+            <a
+              className="btn bg-red px-8 py-3 font-semibold text-white rounded-full"
+              href="/shop"
+            >
               Explore
-            </button>
+            </a>
           </div>
         </div>
         <div className="md:w-1/2">
-          <div className="grid grid-cols-2 gap-4">
-            {service.length > 0 &&
-              service.map((item) => {
-                return (
-                  <div
-                    key={item.id}
-                    className="shadow-md rounded-sm px-5 py-4 text-center space-y-4 text-red cursor-pointer hover:border hover:border-red transition-all duration-300 hover:bg-rose-50"
-                  >
-                    <img src={item.image} alt={item.title} className="mx-auto h-16 " />
-                    <div>
-                      <h5 className="font-semibold">{item.title}</h5>
-                      <p className="text-secondary">{item.description}</p>
-                    </div>
-                  </div>
-                );
-              })}
+          <div className="grid sm:grid-cols-2 grid-cols-1 gap-8 items-center">
+            {myServices.length > 0 &&
+              myServices.map((item) => (
+                <div
+                  key={item.id}
+                  className="shadow-lg rounded-lg py-6 px-6 text-center space-y-4 bg-white hover:bg-indigo-50 text-red-600 cursor-pointer hover:scale-105 transform transition-all duration-300 ease-in-out border-2 border-transparent hover:border-indigo-500"
+                >
+                  <img src={item.image} alt="" className="mx-auto h-16" />
+                  <h5 className="font-semibold">{item.title}</h5>
+                  <p className="text-secondary">{item.description}</p>
+                </div>
+              ))}
           </div>
         </div>
       </div>

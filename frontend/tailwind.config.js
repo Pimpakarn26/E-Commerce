@@ -8,7 +8,7 @@ export default {
       colors: {
         red: "#830109",
         secondary: "#555",
-        primaryBg: "#FCFCFC",
+        primaryBG: "#FCFCFC",
       },
     },
   },
